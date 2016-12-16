@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>申请人界面
